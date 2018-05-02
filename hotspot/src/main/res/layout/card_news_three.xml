@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <TextView
+        android:id="@+id/hot_no_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:layout_marginBottom="12dp"
+        android:gravity="center_vertical"
+        android:textSize="16sp"
+        android:textColor="#ffffff"
+        android:textStyle="bold|italic"
+        android:background="@drawable/hot_no_bg"
+        android:text="热榜NO.1"/>
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="1212123222222222222222225555555555555555555555555555522222222222222"
+        android:textColor="@color/font_color"
+        android:textSize="16sp" />
+
+    <include
+        layout="@layout/src_and_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>

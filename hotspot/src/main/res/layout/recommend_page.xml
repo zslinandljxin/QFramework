@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.zsl.zhaoqing.hotspot.customui.EasyPullLayoutJ
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/refresh_header"
+            layout="@layout/refresh_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_type="edge_top"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <include
+            android:id="@+id/refresh_footer"
+            layout="@layout/refresh_footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_type="edge_bottom"/>
+
+    </com.zsl.zhaoqing.hotspot.customui.EasyPullLayoutJ>
+
+</LinearLayout>

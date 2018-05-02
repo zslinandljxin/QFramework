@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp">
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+    <com.zsl.zhaoqing.qframework.UnderLineText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="16sp"
+        android:textColor="#212121"
+        android:text="2 微软Surface Book 2正式开卖：12388元起"/>
+</LinearLayout>

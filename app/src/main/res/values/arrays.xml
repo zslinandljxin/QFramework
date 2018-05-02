@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="headerId">
+        <item>@layout/xiala</item>
+        <item>@layout/sifang</item>
+        <item>@layout/jiazai</item>
+        <item>@layout/finish</item>
+    </integer-array>
+</resources>

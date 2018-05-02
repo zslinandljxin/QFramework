@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp">
+        <LinearLayout
+            android:id="@+id/date_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/date_bg">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/font_color"
+                android:layout_marginBottom="2dp"
+                android:textSize="8sp"
+                android:text="OCT"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/font_color"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:text="26"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/date_view"
+            android:textColor="@color/font_color"
+            android:layout_marginLeft="8dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="早间快报"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="12sp"
+            android:textColor="@color/font_color_grey"
+            android:drawableRight="@drawable/arrow_right"
+            android:drawablePadding="8dp"
+            android:text="查看详情"/>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/broadcast_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"></ListView>
+    
+    
+</LinearLayout>

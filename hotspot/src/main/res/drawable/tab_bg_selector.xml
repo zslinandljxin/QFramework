@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enterFadeDuration="@android:integer/config_mediumAnimTime"
+    android:exitFadeDuration="@android:integer/config_mediumAnimTime">
+
+    <item android:state_pressed="true"
+        android:state_selected="false">
+        <shape android:shape="oval">
+            <solid android:color="@color/tab_bg_pressed"/>
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/tab_bg_focesed"/>
+        </shape>
+    </item>
+    <item android:drawable="@android:color/transparent"/>
+
+</selector>
